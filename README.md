@@ -9,5 +9,3 @@ The document describes library integration steps.
 
 - Android Studio
 - API Level: 14 (Android 4.0 - Ice Cream Sandwich)
-
-## Quick start guide
